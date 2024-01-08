@@ -292,6 +292,7 @@ body {
 .box {
   position: absolute;
   top: 45px;
+  
  
 }
 .girl {
@@ -447,7 +448,9 @@ body {
   right: 40%;
 }
 .social {
-  display: inline;
+   display: inline;
+   padding: 4px;
+  
 }
 
 /* column3 */
@@ -482,3 +485,4 @@ body {
   bottom: -200px;
   right: -250px;
 }
+
